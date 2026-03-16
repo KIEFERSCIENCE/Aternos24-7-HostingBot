@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Haich.aternos.me",
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 1,
     "y": 100,
-    "z": 0
+    "z": 1
   },
   "utils": {
     "auto-auth": {
