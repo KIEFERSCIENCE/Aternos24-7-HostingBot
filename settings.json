@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "Haich.aternos.me",
+    "ip": "squaretail.aternos.host:15762",
     "port": 15762,
     "version": "",
     "try-creative": false
